@@ -6,5 +6,7 @@ I am not author of this tool, i collect and modify to help people use this tool 
 Facebook.com/HuyAkiro
 
 https://www.python.org/downloads/
+
 python -m pip install pyusb pyserial json5
+
 https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.6.0/libusb-win32-devel-filter-1.2.6.0.exe/download

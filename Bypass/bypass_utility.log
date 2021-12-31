@@ -1,0 +1,208 @@
+[2021-04-25 22:52:57.890268] Waiting for device
+[2021-04-25 22:53:09.037564] Found port = COM3
+[2021-04-25 22:53:09.544770] Device hw code: 0x766
+[2021-04-25 22:53:09.546716] Device hw sub code: 0x8a00
+[2021-04-25 22:53:09.547754] Device hw version: 0xca00
+[2021-04-25 22:53:09.549708] Device sw version: 0x0
+[2021-04-25 22:53:09.550731] Device secure boot: True
+[2021-04-25 22:53:09.551680] Device serial link authorization: True
+[2021-04-25 22:53:09.553669] Device download agent authorization: True
+[2021-04-25 22:53:09.556648] Disabling watchdog timer
+[2021-04-25 22:53:09.559626] Disabling protection
+[2021-04-25 22:53:20.676202] Protection disabled
+[2021-04-25 23:00:34.446085] Waiting for device
+[2021-04-25 23:06:30.802013] Waiting for device
+[2021-04-25 23:06:40.898924] Found port = COM3
+[2021-04-25 23:06:41.032896] Device hw code: 0x766
+[2021-04-25 23:06:41.034882] Device hw sub code: 0x8a00
+[2021-04-25 23:06:41.035876] Device hw version: 0xca00
+[2021-04-25 23:06:41.037785] Device sw version: 0x0
+[2021-04-25 23:06:41.038856] Device secure boot: True
+[2021-04-25 23:06:41.039849] Device serial link authorization: True
+[2021-04-25 23:06:41.041836] Device download agent authorization: True
+[2021-04-25 23:06:41.042829] Disabling watchdog timer
+[2021-04-25 23:06:41.045731] Disabling protection
+[2021-04-25 23:06:41.275816] Protection disabled
+[2021-04-25 23:14:19.868893] Waiting for device
+[2021-04-25 23:14:25.080807] Found port = COM4
+[2021-04-25 23:14:25.270532] Device hw code: 0x766
+[2021-04-25 23:14:25.273512] Device hw sub code: 0x8a00
+[2021-04-25 23:14:25.286423] Device hw version: 0xca00
+[2021-04-25 23:14:25.296360] Device sw version: 0x0
+[2021-04-25 23:14:25.297354] Device secure boot: True
+[2021-04-25 23:14:25.300334] Device serial link authorization: True
+[2021-04-25 23:14:25.304307] Device download agent authorization: True
+[2021-04-25 23:14:25.312253] Disabling watchdog timer
+[2021-04-25 23:14:25.318213] Disabling protection
+[2021-04-25 23:15:02.837658] Waiting for device
+[2021-04-25 23:15:56.064065] Found port = COM4
+[2021-04-25 23:15:56.152476] Device hw code: 0x766
+[2021-04-25 23:15:56.153470] Device hw sub code: 0x8a00
+[2021-04-25 23:15:56.154466] Device hw version: 0xca00
+[2021-04-25 23:15:56.156452] Device sw version: 0x0
+[2021-04-25 23:15:56.157445] Device secure boot: True
+[2021-04-25 23:15:56.158441] Device serial link authorization: True
+[2021-04-25 23:15:56.159431] Device download agent authorization: True
+[2021-04-25 23:15:56.160424] Disabling watchdog timer
+[2021-04-25 23:15:56.163405] Disabling protection
+[2021-04-25 23:15:56.211994] Protection disabled
+[2021-04-25 23:18:12.666483] Waiting for device
+[2021-04-25 23:19:02.701819] Waiting for device
+[2021-04-25 23:19:18.562775] Found port = COM4
+[2021-04-25 23:19:18.699402] Device hw code: 0x766
+[2021-04-25 23:19:18.703429] Device hw sub code: 0x8a00
+[2021-04-25 23:19:18.712429] Device hw version: 0xca00
+[2021-04-25 23:19:18.720376] Device sw version: 0x0
+[2021-04-25 23:19:18.730309] Device secure boot: True
+[2021-04-25 23:19:18.734347] Device serial link authorization: True
+[2021-04-25 23:19:18.737328] Device download agent authorization: True
+[2021-04-25 23:19:18.739312] Disabling watchdog timer
+[2021-04-25 23:19:18.744278] Disabling protection
+[2021-04-25 23:20:13.304139] Waiting for device
+[2021-04-25 23:20:46.467435] Waiting for device
+[2021-04-25 23:23:05.394463] Found port = COM5
+[2021-04-25 23:23:23.584896] Waiting for device
+[2021-04-25 23:23:38.664308] Found port = COM5
+[2021-04-25 23:30:10.656974] Waiting for device
+[2021-04-25 23:30:27.973519] Waiting for device
+[2021-04-25 23:30:30.736538] Found port = COM5
+[2021-04-25 23:30:42.719905] Waiting for device
+[2021-04-25 23:30:45.562140] Found port = COM5
+[2021-04-25 23:33:05.645906] Waiting for device
+[2021-04-25 23:34:14.334283] Waiting for device
+[2021-04-25 23:34:59.737128] Found port = COM5
+[2021-04-25 23:34:59.877747] Device hw code: 0x766
+[2021-04-25 23:34:59.877747] Device hw sub code: 0x8a00
+[2021-04-25 23:34:59.877747] Device hw version: 0xca00
+[2021-04-25 23:34:59.893324] Device sw version: 0x0
+[2021-04-25 23:34:59.893324] Device secure boot: True
+[2021-04-25 23:34:59.893324] Device serial link authorization: True
+[2021-04-25 23:34:59.893324] Device download agent authorization: True
+[2021-04-25 23:34:59.893324] Disabling watchdog timer
+[2021-04-25 23:34:59.893324] Disabling protection
+[2021-04-25 23:35:00.252826] Protection disabled
+[2021-04-26 00:24:10.504305] Waiting for device
+[2021-04-26 00:24:19.146836] Found port = COM5
+[2021-04-26 00:24:19.396756] Device hw code: 0x766
+[2021-04-26 00:24:19.396756] Device hw sub code: 0x8a00
+[2021-04-26 00:24:19.396756] Device hw version: 0xca00
+[2021-04-26 00:24:19.396756] Device sw version: 0x0
+[2021-04-26 00:24:19.396756] Device secure boot: True
+[2021-04-26 00:24:19.396756] Device serial link authorization: True
+[2021-04-26 00:24:19.396756] Device download agent authorization: True
+[2021-04-26 00:24:19.396756] Disabling watchdog timer
+[2021-04-26 00:24:19.412375] Disabling protection
+[2021-04-26 00:24:46.247272] Waiting for device
+[2021-04-26 00:27:08.416360] Waiting for device
+[2021-04-26 00:27:59.233603] Found port = COM5
+[2021-04-26 00:28:08.389839] Waiting for device
+[2021-04-26 00:29:14.964518] Found port = COM5
+[2021-04-26 00:29:15.089482] Device hw code: 0x766
+[2021-04-26 00:29:15.105099] Device hw sub code: 0x8a00
+[2021-04-26 00:29:15.105099] Device hw version: 0xca00
+[2021-04-26 00:29:15.120722] Device sw version: 0x0
+[2021-04-26 00:29:15.120722] Device secure boot: True
+[2021-04-26 00:29:15.120722] Device serial link authorization: True
+[2021-04-26 00:29:15.120722] Device download agent authorization: True
+[2021-04-26 00:29:15.136338] Disabling watchdog timer
+[2021-04-26 00:29:15.136338] Disabling protection
+[2021-04-26 00:29:15.230059] Protection disabled
+[2021-05-29 18:44:57.416369] Waiting for device
+[2021-05-29 18:45:07.182527] Found port = COM3
+[2021-05-29 18:45:07.416829] Device hw code: 0x766
+[2021-05-29 18:45:07.416829] Device hw sub code: 0x8a00
+[2021-05-29 18:45:07.416829] Device hw version: 0xca00
+[2021-05-29 18:45:07.416829] Device sw version: 0x0
+[2021-05-29 18:45:07.432447] Device secure boot: True
+[2021-05-29 18:45:07.448067] Device serial link authorization: True
+[2021-05-29 18:45:07.448067] Device download agent authorization: True
+[2021-05-29 18:45:07.448067] Disabling watchdog timer
+[2021-05-29 18:45:07.448067] Disabling protection
+[2021-05-29 18:45:09.036263] Protection disabled
+[2021-05-29 19:03:14.574813] Waiting for device
+[2021-05-29 19:03:29.924286] Found port = COM3
+[2021-05-29 19:03:30.137381] Device hw code: 0x766
+[2021-05-29 19:03:30.137381] Device hw sub code: 0x8a00
+[2021-05-29 19:03:30.153000] Device hw version: 0xca00
+[2021-05-29 19:03:30.153000] Device sw version: 0x0
+[2021-05-29 19:03:30.153000] Device secure boot: True
+[2021-05-29 19:03:30.153000] Device serial link authorization: True
+[2021-05-29 19:03:30.153000] Device download agent authorization: True
+[2021-05-29 19:03:30.153000] Disabling watchdog timer
+[2021-05-29 19:03:30.153000] Disabling protection
+[2021-05-29 19:03:30.458887] Protection disabled
+[2021-05-29 19:07:38.890470] Waiting for device
+[2021-05-29 19:08:23.057015] Found port = COM4
+[2021-05-29 19:08:23.150729] Device hw code: 0x766
+[2021-05-29 19:08:23.150729] Device hw sub code: 0x8a00
+[2021-05-29 19:08:23.150729] Device hw version: 0xca00
+[2021-05-29 19:08:23.150729] Device sw version: 0x0
+[2021-05-29 19:08:23.150729] Device secure boot: True
+[2021-05-29 19:08:23.150729] Device serial link authorization: True
+[2021-05-29 19:08:23.150729] Device download agent authorization: True
+[2021-05-29 19:08:23.150729] Disabling watchdog timer
+[2021-05-29 19:08:23.166351] Disabling protection
+[2021-05-29 19:08:52.115604] Waiting for device
+[2021-05-29 19:08:59.710517] Found port = COM4
+[2021-05-29 19:09:06.886613] Waiting for device
+[2021-05-29 19:09:10.630268] Found port = COM4
+[2021-05-29 19:09:27.849927] Waiting for device
+[2021-05-29 19:10:07.529689] Found port = COM4
+[2021-05-29 19:10:07.638982] Device hw code: 0x766
+[2021-05-29 19:10:07.638982] Device hw sub code: 0x8a00
+[2021-05-29 19:10:07.638982] Device hw version: 0xca00
+[2021-05-29 19:10:07.638982] Device sw version: 0x0
+[2021-05-29 19:10:07.638982] Device secure boot: True
+[2021-05-29 19:10:07.654604] Device serial link authorization: True
+[2021-05-29 19:10:07.654604] Device download agent authorization: True
+[2021-05-29 19:10:07.654604] Disabling watchdog timer
+[2021-05-29 19:10:07.654604] Disabling protection
+[2021-05-29 19:10:07.717087] Protection disabled
+[2021-05-29 19:34:08.263215] Waiting for device
+[2021-05-29 19:34:20.467217] Found port = COM4
+[2021-05-29 19:34:20.664220] Device hw code: 0x766
+[2021-05-29 19:34:20.665719] Device hw sub code: 0x8a00
+[2021-05-29 19:34:20.666719] Device hw version: 0xca00
+[2021-05-29 19:34:20.667720] Device sw version: 0x0
+[2021-05-29 19:34:20.668719] Device secure boot: True
+[2021-05-29 19:34:20.670220] Device serial link authorization: True
+[2021-05-29 19:34:20.671220] Device download agent authorization: True
+[2021-05-29 19:34:20.672719] Disabling watchdog timer
+[2021-05-29 19:34:20.675218] Disabling protection
+[2021-05-29 19:34:21.295855] Protection disabled
+[2021-05-29 21:38:21.521209] Waiting for device
+[2021-05-29 21:42:56.550571] Found port = COM4
+[2021-05-29 21:42:56.700071] Device hw code: 0x766
+[2021-05-29 21:42:56.701069] Device hw sub code: 0x8a00
+[2021-05-29 21:42:56.702070] Device hw version: 0xca00
+[2021-05-29 21:42:56.703069] Device sw version: 0x0
+[2021-05-29 21:42:56.704070] Device secure boot: False
+[2021-05-29 21:42:56.705069] Device serial link authorization: False
+[2021-05-29 21:42:56.706069] Device download agent authorization: False
+[2021-05-29 21:42:56.707069] Disabling watchdog timer
+[2021-05-29 21:42:56.710070] Insecure device, sending payload using send_da
+[2021-05-29 21:42:56.792749] Found send_dword, dumping bootrom to bootrom_766.bin
+[2021-05-29 21:43:38.468099] Waiting for device
+[2021-05-29 21:43:48.979113] Found port = COM4
+[2021-05-29 21:43:49.075611] Device hw code: 0x766
+[2021-05-29 21:43:49.076614] Device hw sub code: 0x8a00
+[2021-05-29 21:43:49.077614] Device hw version: 0xca00
+[2021-05-29 21:43:49.078613] Device sw version: 0x0
+[2021-05-29 21:43:49.079612] Device secure boot: True
+[2021-05-29 21:43:49.080613] Device serial link authorization: True
+[2021-05-29 21:43:49.081613] Device download agent authorization: True
+[2021-05-29 21:43:49.083112] Disabling watchdog timer
+[2021-05-29 21:43:49.085112] Disabling protection
+[2021-05-29 22:09:58.551706] Waiting for device
+[2021-05-29 22:11:15.636798] Waiting for device
+[2021-05-29 22:11:33.541976] Found port = COM5
+[2021-05-29 22:11:33.777798] Device hw code: 0x766
+[2021-05-29 22:11:33.777798] Device hw sub code: 0x8a00
+[2021-05-29 22:11:33.777798] Device hw version: 0xca00
+[2021-05-29 22:11:33.777798] Device sw version: 0x0
+[2021-05-29 22:11:33.793352] Device secure boot: True
+[2021-05-29 22:11:33.793352] Device serial link authorization: True
+[2021-05-29 22:11:33.793352] Device download agent authorization: True
+[2021-05-29 22:11:33.793352] Disabling watchdog timer
+[2021-05-29 22:11:33.809005] Disabling protection
+[2021-05-29 22:11:33.949555] Protection disabled

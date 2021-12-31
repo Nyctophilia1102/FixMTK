@@ -1,2 +1,2 @@
 # FixMTK
-An tool to fix your MTK devices
+A tool to fix your MTK devices

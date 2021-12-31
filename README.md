@@ -1,7 +1,8 @@
 # FixMTK
 A tool to fix your MTK devices
 
-I am not author of this tool, i collect and modify to help people use this tool easier,.If you are the author, please contact me via my facebook account.Thank you
+I am not author of this tool, i collect and modify to help people use this tool easier,.If you are the author, please contact me via my facebook account.Thank you.
+
 Facebook.com/HuyAkiro
 
 https://www.python.org/downloads/
